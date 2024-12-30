@@ -1,0 +1,5 @@
+mkdir task-manager-backend
+cd task-manager-backend
+npm init -y
+npm install express mongoose bcryptjs jsonwebtoken body-parser cors dotenv
+npm install --save-dev nodemon
